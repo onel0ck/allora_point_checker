@@ -1,0 +1,4 @@
+aiohttp==3.8.4
+fake-useragent==1.1.1
+brotli==1.0.9
+backoff
